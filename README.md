@@ -13,13 +13,15 @@ The workshop is split into 3 parts:
  - Part 2: Generating a training dataset of expressions and tokenization
  - Part 3: Training a deep neural network to carry out symbolic regression
 
-# Assessment
+# Coding tasks
 
-You will be assessed on **your completion of each task in this notebook**. Each task is labelled like this:
- > **Task 0.0**: Complete this!
+The notebook includes coding tasks. Each task is labelled like this:
 
- Please fill in your code in the cell provided below each task.
+> Task: do this!
+ 
+The notebook is designed for you to go at your own pace, and also contains extension exercises to stretch those with previous experience.
 
+If you get stuck, please ask the instructors for help, and the completed notebooks are available in this repository for your reference.
 
 # Goal
 
